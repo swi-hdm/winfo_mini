@@ -14,7 +14,7 @@ def begruessung(name):
 
 def addiere(a, b):
     """Addiert zwei (2) Zahlen."""
-    return a + b
+    return a - b
 
 
 def durchschnitt(zahlen):
