@@ -13,7 +13,7 @@ def begruessung(name):
 
 
 def addiere(a, b):
-    """Addiert zwei Zahlen."""
+    """Addiert zwei (2) Zahlen."""
     return a + b
 
 
